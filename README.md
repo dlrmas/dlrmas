@@ -2,7 +2,7 @@
 `Business Strategist in Training` | `Code Enthusiast` | `Drama Connoisseur`
 
 <a href="https://github.com/yourprofile">
-  <img align="right" src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=dlrmas&color=blueviolet&style=flat-square" alt="Profile views"/>
 </a>
 
 ---
