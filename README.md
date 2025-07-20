@@ -1,7 +1,7 @@
 # Hey, I'm d! 🚀  
 `Business Strategist in Training` | `Code Enthusiast` | `Drama Connoisseur`
 
-<a href="https://github.com/yourprofile">
+<a href="https://github.com/dlrmas">
   <img align="right" src="https://komarev.com/ghpvc/?username=dlrmas&color=blueviolet&style=flat-square" alt="Profile views"/>
 </a>
 
