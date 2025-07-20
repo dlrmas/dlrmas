@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name]! 🚀  
+# Hey, I'm d! 🚀  
 `Business Strategist in Training` | `Code Enthusiast` | `Drama Connoisseur`
 
 <a href="https://github.com/yourprofile">
